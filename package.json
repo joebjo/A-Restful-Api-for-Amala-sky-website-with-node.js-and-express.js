@@ -1,0 +1,26 @@
+{
+  "name": "skylineapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "A",
+    "restful",
+    "Api",
+    "made",
+    "for",
+    "a",
+    "restaurant"
+  ],
+  "author": "Joseph Bello",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^13.1.0",
+    "nodemon": "^2.0.12"
+  }
+}
